@@ -1,0 +1,24 @@
+worlds["Season 3"] = "D:/Servers/Minecraft/Season 3/snapshot/BCC Server"
+
+renders["overworld"] = {
+    "world": "Season 3",
+    "title": "Overworld",
+    "rendermode": smooth_lighting,
+    "dimension": "overworld",
+}
+
+renders["nether"] = {
+    "world": "Season 3",
+    "title": "Nether",
+    "rendermode": nether,
+    "dimension": "nether",
+}
+
+renders["the_end"] = {
+    "world": "Season 3",
+    "title": "The End",
+    "rendermode": normal  ,
+    "dimension": "end",
+}
+
+outputdir = "./Season 3"

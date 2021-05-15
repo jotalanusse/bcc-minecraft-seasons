@@ -1,0 +1,23 @@
+worlds["Season 4 - overworld"] = "D:/Servers/Minecraft/Season 3/spigot/1.16/BCC Server"
+worlds["Season 4 - nether"] = "D:/Servers/Minecraft/Season 3/spigot/1.16/BCC Server_nether"
+worlds["Season 4 - end"] = "D:/Servers/Minecraft/Season 3/spigot/1.16/BCC Server_the_end"
+
+renders["overworld"] = {
+    "world": "Season 4 - overworld",
+    "title": "Overworld",
+    "rendermode": smooth_lighting,
+}
+
+renders["nether"] = {
+    "world": "Season 4 - nether",
+    "title": "Nether",
+    "rendermode": nether,
+}
+
+renders["the_end"] = {
+    "world": "Season 4 - end",
+    "title": "The End",
+    "rendermode": normal  ,
+}
+
+outputdir = "./Season 4"

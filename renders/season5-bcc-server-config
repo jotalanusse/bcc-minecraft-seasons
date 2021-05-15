@@ -1,0 +1,24 @@
+worlds["Season 5"] = "D:/Servers/Minecraft/Season 5/world"
+
+renders["overworld"] = {
+    "world": "Season 5",
+    "title": "Overworld",
+    "rendermode": smooth_lighting,
+    "dimension": "overworld",
+}
+
+renders["nether"] = {
+    "world": "Season 5",
+    "title": "Nether",
+    "rendermode": nether,
+    "dimension": "nether",
+}
+
+renders["the_end"] = {
+    "world": "Season 5",
+    "title": "The End",
+    "rendermode": normal  ,
+    "dimension": "end",
+}
+
+outputdir = "./Season 5"
