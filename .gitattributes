@@ -1,0 +1,2 @@
+*.rar filter=lfs diff=lfs merge=lfs -text
+*.mca filter=lfs diff=lfs merge=lfs -text
