@@ -6,8 +6,8 @@
 ## Maps:
 
 ### Overworld:
-![Overworld chunks map](/overworld.png)
+![Overworld chunks map](./overworld.png)
 
 ### The Nether:
-![The Nether chunks map](/the-nether.png)
+![The Nether chunks map](./the-nether.png)
 
