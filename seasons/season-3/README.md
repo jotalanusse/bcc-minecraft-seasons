@@ -9,3 +9,7 @@
 #### The Nether:
 - **Inhabited seconds threshold:** 0.05 @ 20 TPS
 ![The Nether chunks map](./the-nether.png)
+
+#### The End:
+- **Inhabited seconds threshold:** 0.05 @ 20 TPS
+![The End chunks map](./the-end.png)
