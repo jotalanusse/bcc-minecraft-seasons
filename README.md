@@ -14,7 +14,7 @@ Each season contains an **archive** folder that stores the original Minecraft se
 
 Next you will find a **world** folder, this folder contains a **clean version of the Minecraft world** (Overworld, The nether and The End). The MCA files found here were filtered using the legacy version of [Minety](https://github.com/jotalanusse/minety) to remove unused region files.
 
-In the same directory you can also find a README containing the settings used to clean the world and some PNG images that show the original world and what was kept after the cleaning.
+In the same directory you can also find a README containing the settings used to clean the world, and some PNG images that show the original world and what was kept after the cleaning.
 
 ## Renders
 W.I.P
