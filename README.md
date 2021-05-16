@@ -1,7 +1,7 @@
 
 # bcc-minecraft-seasons
 ### The archive for all the BCC Minecraft seasons
-Here you can find all the BCC Minecraft seasons that were played throughout the years. You can find an explanation of what this project contains right below.
+Here you can find all the BCC Minecraft seasons that were played throughout the years. An explanation of what this project contains can be found right below.
 
 ## Seasons
 ### The following seasons are available in this repository:
