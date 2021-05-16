@@ -1,3 +1,4 @@
+
 # bcc-minecraft-seasons
 ### The archive for all the BCC Minecraft seasons
 Here you can find all the BCC Minecraft seasons that were played throughout the years. You can find an explanation of what this project contains right below.
@@ -19,4 +20,15 @@ Along the MCA world files, the **world** folder also includes the **DAT level fi
 Finally, in the same directory you can also find a **README** containing the settings used to clean the world, and some **PNG images** that show the original world and what was kept after the cleaning.
 
 ## Renders
-W.I.P
+### Each season has a world render:
+- [Season 2](https://worlds.marsopasexy.com/seasons/2)
+- [Season 3](https://worlds.marsopasexy.com/seasons/3)
+- [Season 4](https://worlds.marsopasexy.com/seasons/4)
+- [Season 5](https://worlds.marsopasexy.com/seasons/5)
+- Season 6 (W.I.P)
+
+The renders were done using [Minecraft Overviewer](https://github.com/overviewer/Minecraft-Overviewer/) (awesome project, go check it out!). So you will need to download it if you want to render the worlds yourself.
+
+The configuration for each world render can be found in the [renders](renders/) folder, along a **BATCH file** to render all the worlds at the same time.
+
+In the [renders](renders/) folder you will also find a **Dockerfile** and a **docker-compose.yml** used to serve the world renders in an **Nginx** server.

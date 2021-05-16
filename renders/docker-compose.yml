@@ -1,0 +1,11 @@
+version: '3.7'
+
+services:
+  bcc-minecraft-seasons-renders:
+    container_name: bcc-minecraft-seasons-renders
+    image: nginx
+    volumes:
+    - ./output:/usr/share/nginx/html
+    ports:
+      - 80:80
+    restart: unless-stopped

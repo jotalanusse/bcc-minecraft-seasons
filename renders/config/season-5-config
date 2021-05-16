@@ -13,4 +13,4 @@ renders["The Nether"] = {
     "rendermode": nether,
 }
 
-outputdir = "./season-5"
+outputdir = "./output/seasons/5"
