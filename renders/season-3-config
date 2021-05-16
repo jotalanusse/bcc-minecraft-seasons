@@ -20,4 +20,4 @@ renders["The End"] = {
     "rendermode": normal,
 }
 
-outputdir = "./Season 3"
+outputdir = "./season-3"
