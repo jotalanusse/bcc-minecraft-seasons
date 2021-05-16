@@ -10,7 +10,7 @@ Here you can find all the BCC Minecraft seasons that were played throughout the 
 - [Season 5](seasons/season-5/)
 - Season 6 (W.I.P)
 
-Each season contains an **archive** folder that stores the original Minecraft server (or what's left of it) in multiple 1.5GB RAR files. To use these files just download them and extract them.
+Each season contains an **archive** folder that stores the original Minecraft server (or what's left of it) in multiple 1.5GB RAR files. To access these files just download them and extract them.
 
 Next you will find a **world** folder, this folder contains a **clean version of the Minecraft world** (Overworld, The nether and The End). The MCA files found here were filtered using the legacy version of [Minety](https://github.com/jotalanusse/minety) to remove unused region files.
 
