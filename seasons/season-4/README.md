@@ -1,9 +1,9 @@
-## Season 3:
+## Season 4:
 
 ### Maps:
 
 #### Overworld:
-- **Inhabited seconds threshold:** 0.05 @ 20 TPS
+- **Inhabited seconds threshold:** 30 @ 20 TPS
 
 ![Overworld chunks map](./overworld.png)
 
