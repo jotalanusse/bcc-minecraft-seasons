@@ -26,7 +26,8 @@ Finally, in the same directory you can also find a **README** containing the set
 - [Season 3](https://worlds.marsopasexy.com/seasons/3)
 - [Season 4](https://worlds.marsopasexy.com/seasons/4)
 - [Season 5](https://worlds.marsopasexy.com/seasons/5)
-- Season 6 (W.I.P)
+- [Season 6 [Episode 1]](https://worlds.marsopasexy.com/seasons/6/episodes/1)
+- Season 6 [Episode 2] (W.I.P)
 
 The renders were done using [Minecraft Overviewer](https://github.com/overviewer/Minecraft-Overviewer/) (awesome project, go check it out!). So you will need to download it if you want to render the worlds yourself.
 
