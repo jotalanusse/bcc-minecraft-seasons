@@ -9,7 +9,8 @@ Here you can find all the BCC Minecraft seasons that were played throughout the 
 - [Season 3](seasons/season-3/)
 - [Season 4](seasons/season-4/)
 - [Season 5](seasons/season-5/)
-- Season 6 (W.I.P)
+- [Season 6 [Episode 1]](seasons/season-6/episode-1/)
+- Season 6 [Episode 2] (W.I.P)
 
 Each season contains an **archive** folder that stores the original Minecraft server (or what's left of it) in multiple **1.5GB RAR** files. To access these files just download them and extract them.
 
