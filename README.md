@@ -10,7 +10,8 @@ Here you can find all the BCC Minecraft seasons that were played throughout the 
 - [Season 4](seasons/season-4/)
 - [Season 5](seasons/season-5/)
 - [Season 6 [Episode 1]](seasons/season-6/episode-1/)
-- Season 6 [Episode 2] (W.I.P)
+- Season 6 [Episode 2] (Delayed)
+- Season 7 (W.I.P)
 
 Each season contains an **archive** folder that stores the original Minecraft server (or what's left of it) in multiple **1.5GB RAR** files. To access these files just download them and extract them.
 
@@ -27,7 +28,8 @@ Finally, in the same directory you can also find a **README** containing the set
 - [Season 4](https://worlds.bccsrv.com/seasons/4)
 - [Season 5](https://worlds.bccsrv.com/seasons/5)
 - [Season 6 [Episode 1]](https://worlds.bccsrv.com/seasons/6/episodes/1)
-- Season 6 [Episode 2] (W.I.P)
+- Season 6 [Episode 2] (Delayed)
+- Season 7 (W.I.P)
 
 The renders were done using [Minecraft Overviewer](https://github.com/overviewer/Minecraft-Overviewer/) (awesome project, go check it out!). So you will need to download it if you want to render the worlds yourself.
 
