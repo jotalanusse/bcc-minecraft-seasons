@@ -4,12 +4,15 @@ smooth_lighting = [Base(), EdgeLines(), SmoothLighting()]
 night = [Base(), EdgeLines(), Lighting(night=True)]
 smooth_night = [Base(), EdgeLines(), SmoothLighting(night=True)]
 nether = [Base(), EdgeLines(), Nether()]
-nether_lighting = [Base(), EdgeLines(), Nether(), Lighting()]
-nether_smooth_lighting = [Base(), EdgeLines(), Nether(), SmoothLighting()]
+nether_lighting = [Base(), EdgeLines(), Nether(), Lighting(strength=0.2)]
+nether_smooth_lighting = [Base(), EdgeLines(), Nether(), SmoothLighting(strength=0.2)]
+end_lighting = [Base(), EdgeLines(), Lighting(strength=0.5)]
+end_smooth_lighting = [Base(), EdgeLines(), SmoothLighting(strength=0.5)]
 cave = [Base(), EdgeLines(), Cave(), DepthTinting()]
-biome_overlay = [Base(), BiomeOverlay()]
-heatmap_overlay = [Base(), HeatmapOverlay()]
+biome_overlay = [ClearBase(), BiomeOverlay()]
+heatmap_overlay = [ClearBase(), HeatmapOverlay()]
 
+##################### Overworld #####################
 worlds["Season 5 - Overworld"] = "./seasons/season-5/organized/overworld"
 renders["Overworld"] = {
     "world": "Season 5 - Overworld",
@@ -18,22 +21,23 @@ renders["Overworld"] = {
     "texturepath": "./texture-packs/VanillaDefault+1.19.4.zip",
 }
 
-renders["Overworld Biome Coloring Overlay"] = {
+renders["Overworld Biome Overlay"] = {
     "world": "Season 5 - Overworld",
-    "title": "Biome Coloring Overlay",
+    "title": "Biome Overlay",
     "rendermode": biome_overlay,
-    "overlay": ["Overworld"]
+    "overlay": ["Overworld"],
     "texturepath": "./texture-packs/VanillaDefault+1.19.4.zip",
 }
 
-renders["Overworld Heatmap Coloring Overlay"] = {
+renders["Overworld Heatmap Overlay"] = {
     "world": "Season 5 - Overworld",
-    "title": "Heatmap Coloring Overlay",
+    "title": "Heatmap Overlay",
     "rendermode": heatmap_overlay,
-    "overlay": ["Overworld"]
+    "overlay": ["Overworld"],
     "texturepath": "./texture-packs/VanillaDefault+1.19.4.zip",
 }
       
+##################### The Nether #####################
 worlds["Season 5 - The Nether"] = "./seasons/season-5/organized/the-nether"
 renders["The Nether"] = {
     "world": "Season 5 - The Nether",
@@ -42,19 +46,19 @@ renders["The Nether"] = {
     "texturepath": "./texture-packs/VanillaDefault+1.19.4.zip",
 }
 
-renders["The Nether Biome Coloring Overlay"] = {
+renders["The Nether Biome Overlay"] = {
     "world": "Season 5 - The Nether",
-    "title": "Biome Coloring Overlay",
+    "title": "Biome Overlay",
     "rendermode": biome_overlay,
-    "overlay": ["The Nether"]
+    "overlay": ["The Nether"],
     "texturepath": "./texture-packs/VanillaDefault+1.19.4.zip",
 }
 
-renders["The Nether Heatmap Coloring Overlay"] = {
+renders["The Nether Heatmap Overlay"] = {
     "world": "Season 5 - The Nether",
-    "title": "Heatmap Coloring Overlay",
+    "title": "Heatmap Overlay",
     "rendermode": heatmap_overlay,
-    "overlay": ["The Nether"]
+    "overlay": ["The Nether"],
     "texturepath": "./texture-packs/VanillaDefault+1.19.4.zip",
 }
       
