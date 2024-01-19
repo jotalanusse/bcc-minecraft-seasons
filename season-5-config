@@ -1,0 +1,16 @@
+worlds["Season 5 - Overworld"] = "../seasons/season-5/world/overworld"
+worlds["Season 5 - The Nether"] = "../seasons/season-5/world/the-nether"
+
+renders["Overworld"] = {
+    "world": "Season 5 - Overworld",
+    "title": "Overworld",
+    "rendermode": smooth_lighting,
+}
+
+renders["The Nether"] = {
+    "world": "Season 5 - The Nether",
+    "title": "The Nether",
+    "rendermode": nether,
+}
+
+outputdir = "./output/seasons/5"

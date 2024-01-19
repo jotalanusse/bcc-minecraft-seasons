@@ -1,0 +1,13 @@
+version: '3.8'
+
+services:
+  bcc-minecraft-seasons:
+    image: nginx
+    # container_name: bcc-minecraft-seasons # This only creates conflict with other containers
+    restart: unless-stopped
+    env_file:
+      - .env.docker.nginx.development
+    volumes:
+    - ./output:/usr/share/nginx/html
+    ports:
+      - ${NGINX_PORT}:${NGINX_PORT}

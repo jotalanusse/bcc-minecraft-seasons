@@ -1,0 +1,23 @@
+worlds["Season 3 - Overworld"] = "../seasons/season-3/world/overworld"
+worlds["Season 3 - The Nether"] = "../seasons/season-3/world/the-nether"
+worlds["Season 3 - The End"] = "../seasons/season-3/world/the-end"
+
+renders["Overworld"] = {
+    "world": "Season 3 - Overworld",
+    "title": "Overworld",
+    "rendermode": smooth_lighting,
+}
+
+renders["The Nether"] = {
+    "world": "Season 3 - The Nether",
+    "title": "The Nether",
+    "rendermode": nether,
+}
+
+renders["The End"] = {
+    "world": "Season 3 - The End",
+    "title": "The End",
+    "rendermode": normal,
+}
+
+outputdir = "./output/seasons/3"
