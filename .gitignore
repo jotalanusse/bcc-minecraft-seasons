@@ -4,5 +4,8 @@ seasons/
 # Output folder
 output/
 
-# Overviewer
-overviewer-0.19.9/
+
+# BlueMap files
+blue-map/data/
+blue-map/web/
+
