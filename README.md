@@ -17,3 +17,22 @@ _You don't_.
 
 While this repository is public, the configuration files are useless without the actual Minecraft world files, and those are too large to be stored in a GitHub repository. I'm definitely not going to pay for LFS storage just to store Minecraft world files.
 
+## Useful commands
+If you are trying to run anything in this repository yourself, or you are me from the future and you forgot how to do this, here are some useful commands.
+
+For rendering all maps use:
+```sh
+cd ./blue-map
+java -jar BlueMap-<VERSION>-cli.jar -r
+```
+
+For starting the web server to see progress or something use:
+```sh
+cd ./blue-map
+java -jar BlueMap-<VERSION>-cli.jar -w
+```
+
+For starting the Docker compose stack use:
+```sh
+docker-compose --env-file .env.docker.<ENVIRONMENT> up -d
+```
