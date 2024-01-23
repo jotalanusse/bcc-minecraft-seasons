@@ -16,17 +16,17 @@ If you are lucky, the following links will allow you to view the world renders. 
 | Season 8 | - | [:white_check_mark:](http://bccsrv.xyz:8888/#season_8_overworld:0:0:0:1500:0:0:0:0:perspective) | [:white_check_mark:](http://bccsrv.xyz:8888/#season_8_nether:0:0:0:1500:0:0:0:0:perspective) | [:white_check_mark:](http://bccsrv.xyz:8888/#season_8_end:0:0:0:1500:0:0:0:0:perspective) |
 
 #### Hardcore Seasons:
-| Minecraft World | Version | Overworld | Nether | The End |
+| Minecraft World | Version | Overworld :deciduous_tree: | Nether :fire: | The End :full_moon: |
 | :--- | :--- | :---: | :---: | :---: |
 | Hardcore Season 1 | - | [:white_check_mark:](http://bccsrv.xyz:8888/#hardcore_season_1_overworld:0:0:0:1500:0:0:0:0:perspective) | [:white_check_mark:](http://bccsrv.xyz:8888/#hardcore_season_1_nether:0:0:0:1500:0:0:0:0:perspective) | [:white_check_mark:](http://bccsrv.xyz:8888/#hardcore_season_1_end:0:0:0:1500:0:0:0:0:perspective) |
 
 #### Sandbox Seasons:
-| Minecraft World | Version | Overworld | Nether | The End |
+| Minecraft World | Version | Overworld :deciduous_tree: | Nether :fire: | The End :full_moon: |
 | :--- | :--- | :---: | :---: | :---: |
 | Sandbox Season 1 | - | [:white_check_mark:](http://bccsrv.xyz:8888/#sandbox_season_1_overworld:0:0:0:1500:0:0:0:0:perspective) | [:white_check_mark:](http://bccsrv.xyz:8888/#sandbox_season_1_nether:0:0:0:1500:0:0:0:0:perspective) | [:white_check_mark:](http://bccsrv.xyz:8888/#sandbox_season_1_end:0:0:0:1500:0:0:0:0:perspective) |
 
 #### Mod Seasons:
-| Minecraft World | Version | Overworld | Nether | The End |
+| Minecraft World | Version | Overworld :deciduous_tree: | Nether :fire: | The End :full_moon: |
 | :--- | :--- | :---: | :---: | :---: |
 | Mod Season 1 | - | _WIP_ | _WIP_ | :no_entry: |
 
