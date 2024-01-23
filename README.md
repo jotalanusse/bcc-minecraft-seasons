@@ -7,28 +7,28 @@ If you are lucky, the following links will allow you to view the world renders. 
 #### Seasons:
 | Minecraft World | Version | Overworld :deciduous_tree: | Nether :fire: | The End :full_moon: |
 | :--- | :--- | :---: | :---: | :---: |
-| Season 2 | - | [:white_check_mark:](http://CHANGEME:8888/#season_2_overworld:0:0:0:1500:0:0:0:0:perspective) | [:white_check_mark:](http://CHANGEME:8888/#season_2_nether:0:0:0:1500:0:0:0:0:perspective) | :no_entry: |
+| Season 2 | - | [:white_check_mark:](http://bccsrv.xyz:8888/#season_2_overworld:0:0:0:1500:0:0:0:0:perspective) | [:white_check_mark:](http://bccsrv.xyz:8888/#season_2_nether:0:0:0:1500:0:0:0:0:perspective) | :no_entry: |
 | Season 3 | - | _WIP_ | _WIP_ | _WIP_ |
-| Season 4 | - | [:white_check_mark:](http://CHANGEME:8888/#season_4_overworld:0:0:0:1500:0:0:0:0:perspective) | [:white_check_mark:](http://CHANGEME:8888/#season_4_nether:0:0:0:1500:0:0:0:0:perspective) | [:white_check_mark:](http://CHANGEME:8888/#season_4_end:0:0:0:1500:0:0:0:0:perspective) |
-| Season 5 | - | [:white_check_mark:](http://CHANGEME:8888/#season_5_overworld:0:0:0:1500:0:0:0:0:perspective) | [:white_check_mark:](http://CHANGEME:8888/#season_5_nether:0:0:0:1500:0:0:0:0:perspective) | :no_entry: |
-| Season 6 | - | [:white_check_mark:](http://CHANGEME:8888/#season_6_overworld:0:0:0:1500:0:0:0:0:perspective) | [:white_check_mark:](http://CHANGEME:8888/#season_6_nether:0:0:0:1500:0:0:0:0:perspective) | [:white_check_mark:](http://CHANGEME:8888/#season_6_end:0:0:0:1500:0:0:0:0:perspective) |
-| Season 7 | - | [:white_check_mark:](http://CHANGEME:8888/#season_7_overworld:0:0:0:1500:0:0:0:0:perspective) | [:white_check_mark:](http://CHANGEME:8888/#season_7_nether:0:0:0:1500:0:0:0:0:perspective) | [:white_check_mark:](http://CHANGEME:8888/#season_7_end:0:0:0:1500:0:0:0:0:perspective) |
-| Season 8 | - | [:white_check_mark:](http://CHANGEME:8888/#season_8_overworld:0:0:0:1500:0:0:0:0:perspective) | [:white_check_mark:](http://CHANGEME:8888/#season_8_nether:0:0:0:1500:0:0:0:0:perspective) | [:white_check_mark:](http://CHANGEME:8888/#season_8_end:0:0:0:1500:0:0:0:0:perspective) |
+| Season 4 | - | [:white_check_mark:](http://bccsrv.xyz:8888/#season_4_overworld:0:0:0:1500:0:0:0:0:perspective) | [:white_check_mark:](http://bccsrv.xyz:8888/#season_4_nether:0:0:0:1500:0:0:0:0:perspective) | [:white_check_mark:](http://bccsrv.xyz:8888/#season_4_end:0:0:0:1500:0:0:0:0:perspective) |
+| Season 5 | - | [:white_check_mark:](http://bccsrv.xyz:8888/#season_5_overworld:0:0:0:1500:0:0:0:0:perspective) | [:white_check_mark:](http://bccsrv.xyz:8888/#season_5_nether:0:0:0:1500:0:0:0:0:perspective) | :no_entry: |
+| Season 6 | - | [:white_check_mark:](http://bccsrv.xyz:8888/#season_6_overworld:0:0:0:1500:0:0:0:0:perspective) | [:white_check_mark:](http://bccsrv.xyz:8888/#season_6_nether:0:0:0:1500:0:0:0:0:perspective) | [:white_check_mark:](http://bccsrv.xyz:8888/#season_6_end:0:0:0:1500:0:0:0:0:perspective) |
+| Season 7 | - | [:white_check_mark:](http://bccsrv.xyz:8888/#season_7_overworld:0:0:0:1500:0:0:0:0:perspective) | [:white_check_mark:](http://bccsrv.xyz:8888/#season_7_nether:0:0:0:1500:0:0:0:0:perspective) | [:white_check_mark:](http://bccsrv.xyz:8888/#season_7_end:0:0:0:1500:0:0:0:0:perspective) |
+| Season 8 | - | [:white_check_mark:](http://bccsrv.xyz:8888/#season_8_overworld:0:0:0:1500:0:0:0:0:perspective) | [:white_check_mark:](http://bccsrv.xyz:8888/#season_8_nether:0:0:0:1500:0:0:0:0:perspective) | [:white_check_mark:](http://bccsrv.xyz:8888/#season_8_end:0:0:0:1500:0:0:0:0:perspective) |
 
 #### Hardcore Seasons:
 | Minecraft World | Version | Overworld | Nether | The End |
 | :--- | :--- | :---: | :---: | :---: |
-| Hardcore Season 1 | - | [:white_check_mark:](http://CHANGEME:8888/#hardcore_season_1_overworld:0:0:0:1500:0:0:0:0:perspective) | [:white_check_mark:](http://CHANGEME:8888/#hardcore_season_1_nether:0:0:0:1500:0:0:0:0:perspective) | [:white_check_mark:](http://CHANGEME:8888/#hardcore_season_1_end:0:0:0:1500:0:0:0:0:perspective) |
+| Hardcore Season 1 | - | [:white_check_mark:](http://bccsrv.xyz:8888/#hardcore_season_1_overworld:0:0:0:1500:0:0:0:0:perspective) | [:white_check_mark:](http://bccsrv.xyz:8888/#hardcore_season_1_nether:0:0:0:1500:0:0:0:0:perspective) | [:white_check_mark:](http://bccsrv.xyz:8888/#hardcore_season_1_end:0:0:0:1500:0:0:0:0:perspective) |
 
 #### Sandbox Seasons:
 | Minecraft World | Version | Overworld | Nether | The End |
 | :--- | :--- | :---: | :---: | :---: |
-| Sandbox Season 1 | - | [:white_check_mark:](http://CHANGEME:8888/#sandbox_season_1_overworld:0:0:0:1500:0:0:0:0:perspective) | [:white_check_mark:](http://CHANGEME:8888/#sandbox_season_1_nether:0:0:0:1500:0:0:0:0:perspective) | [:white_check_mark:](http://CHANGEME:8888/#sandbox_season_1_end:0:0:0:1500:0:0:0:0:perspective) |
+| Sandbox Season 1 | - | [:white_check_mark:](http://bccsrv.xyz:8888/#sandbox_season_1_overworld:0:0:0:1500:0:0:0:0:perspective) | [:white_check_mark:](http://bccsrv.xyz:8888/#sandbox_season_1_nether:0:0:0:1500:0:0:0:0:perspective) | [:white_check_mark:](http://bccsrv.xyz:8888/#sandbox_season_1_end:0:0:0:1500:0:0:0:0:perspective) |
 
 #### Mod Seasons:
 | Minecraft World | Version | Overworld | Nether | The End |
 | :--- | :--- | :---: | :---: | :---: |
-| Mod Season 1 | - | [:white_check_mark:](http://CHANGEME:8888/#mod_season_1_overworld:0:0:0:1500:0:0:0:0:perspective) | [:white_check_mark:](http://CHANGEME:8888/#mod_season_1_nether:0:0:0:1500:0:0:0:0:perspective) | :no_entry: |
+| Mod Season 1 | - | [:white_check_mark:](http://bccsrv.xyz:8888/#mod_season_1_overworld:0:0:0:1500:0:0:0:0:perspective) | [:white_check_mark:](http://bccsrv.xyz:8888/#mod_season_1_nether:0:0:0:1500:0:0:0:0:perspective) | :no_entry: |
 
 ## What is this?
 This repository contains the **configuration files** for rendering the maps for the **BCC Minecraft servers**. The maps are rendered using **[BlueMap](https://github.com/BlueMap-Minecraft/BlueMap)**, a Minecraft map renderer.
