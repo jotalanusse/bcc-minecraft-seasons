@@ -4,7 +4,6 @@ echo "Starting for all worlds..."
 
 cd ./blue-map
 
-# Season 2
-java -jar BlueMap-3.20-cli.jar -c ./config/maps/season-2 -r
+java -jar BlueMap-3.20-cli.jar -r
 
 echo "Done!"
