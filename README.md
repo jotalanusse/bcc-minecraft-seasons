@@ -4,7 +4,7 @@ Map render configurations for the BCC Minecraft servers.
 ## World renders
 If you are lucky, the following links will allow you to view the world renders. The server hosting these renders may go down at any time, so don't be surprised if they don't work.
 
-### Seasons:
+#### Seasons:
 | Minecraft World | Version | Overworld | Nether | The End |
 | :--- | :--- | :---: | :---: | :---: |
 | Season 2 | - | [✔️](http://CHANGEME:8888/#season_2_overworld:0:0:0:1500:0:0:0:0:perspective) | [✔️](http://CHANGEME:8888/#season_2_nether:0:0:0:1500:0:0:0:0:perspective) | _N/A_ |
@@ -15,20 +15,21 @@ If you are lucky, the following links will allow you to view the world renders. 
 | Season 7 | - | [✔️](http://CHANGEME:8888/#season_7_overworld:0:0:0:1500:0:0:0:0:perspective) | [✔️](http://CHANGEME:8888/#season_7_nether:0:0:0:1500:0:0:0:0:perspective) | [✔️](http://CHANGEME:8888/#season_7_end:0:0:0:1500:0:0:0:0:perspective) |
 | Season 8 | - | [✔️](http://CHANGEME:8888/#season_8_overworld:0:0:0:1500:0:0:0:0:perspective) | [✔️](http://CHANGEME:8888/#season_8_nether:0:0:0:1500:0:0:0:0:perspective) | [✔️](http://CHANGEME:8888/#season_8_end:0:0:0:1500:0:0:0:0:perspective) |
 
-### Hardcore Seasons:
+#### Hardcore Seasons:
 | Minecraft World | Version | Overworld | Nether | The End |
 | :--- | :--- | :---: | :---: | :---: |
 | Hardcore Season 1 | - | [✔️](http://CHANGEME:8888/#hardcore_season_1_overworld:0:0:0:1500:0:0:0:0:perspective) | [✔️](http://CHANGEME:8888/#hardcore_season_1_nether:0:0:0:1500:0:0:0:0:perspective) | [✔️](http://CHANGEME:8888/#hardcore_season_1_end:0:0:0:1500:0:0:0:0:perspective) |
 
-### Sandbox Seasons:
+#### Sandbox Seasons:
 | Minecraft World | Version | Overworld | Nether | The End |
 | :--- | :--- | :---: | :---: | :---: |
 | Sandbox Season 1 | - | [✔️](http://CHANGEME:8888/#sandbox_season_1_overworld:0:0:0:1500:0:0:0:0:perspective) | [✔️](http://CHANGEME:8888/#sandbox_season_1_nether:0:0:0:1500:0:0:0:0:perspective) | [✔️](http://CHANGEME:8888/#sandbox_season_1_end:0:0:0:1500:0:0:0:0:perspective) |
 
-### Mod Seasons:
+#### Mod Seasons:
 | Minecraft World | Version | Overworld | Nether | The End |
 | :--- | :--- | :---: | :---: | :---: |
 | Mod Season 1 | - | [✔️](http://CHANGEME:8888/#mod_season_1_overworld:0:0:0:1500:0:0:0:0:perspective) | [✔️](http://CHANGEME:8888/#mod_season_1_nether:0:0:0:1500:0:0:0:0:perspective) | N/A |
+
 ## What is this?
 This repository contains the **configuration files** for rendering the maps for the **BCC Minecraft servers**. The maps are rendered using **[Overviewer](https://overviewer.org/)**, a Minecraft map renderer written in Python.
 
