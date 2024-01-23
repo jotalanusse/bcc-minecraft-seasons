@@ -28,7 +28,7 @@ If you are lucky, the following links will allow you to view the world renders. 
 #### Mod Seasons:
 | Minecraft World | Version | Overworld | Nether | The End |
 | :--- | :--- | :---: | :---: | :---: |
-| Mod Season 1 | - | [:white_check_mark:](http://bccsrv.xyz:8888/#mod_season_1_overworld:0:0:0:1500:0:0:0:0:perspective) | [:white_check_mark:](http://bccsrv.xyz:8888/#mod_season_1_nether:0:0:0:1500:0:0:0:0:perspective) | :no_entry: |
+| Mod Season 1 | - | _WIP_ | _WIP_ | :no_entry: |
 
 ## What is this?
 This repository contains the **configuration files** for rendering the maps for the **BCC Minecraft servers**. The maps are rendered using **[BlueMap](https://github.com/BlueMap-Minecraft/BlueMap)**, a Minecraft map renderer.
