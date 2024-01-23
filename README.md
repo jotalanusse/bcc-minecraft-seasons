@@ -31,7 +31,7 @@ If you are lucky, the following links will allow you to view the world renders. 
 | Mod Season 1 | - | [:white_check_mark:](http://CHANGEME:8888/#mod_season_1_overworld:0:0:0:1500:0:0:0:0:perspective) | [:white_check_mark:](http://CHANGEME:8888/#mod_season_1_nether:0:0:0:1500:0:0:0:0:perspective) | :no_entry: |
 
 ## What is this?
-This repository contains the **configuration files** for rendering the maps for the **BCC Minecraft servers**. The maps are rendered using **[Overviewer](https://overviewer.org/)**, a Minecraft map renderer written in Python.
+This repository contains the **configuration files** for rendering the maps for the **BCC Minecraft servers**. The maps are rendered using **[BlueMap](https://github.com/BlueMap-Minecraft/BlueMap)**, a Minecraft map renderer.
 
 ## How do I use this?
 _You don't_.
