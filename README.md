@@ -8,7 +8,7 @@ If you are lucky, the following links will allow you to view the world renders. 
 | Minecraft World | Version | Overworld :deciduous_tree: | Nether :fire: | The End :full_moon: |
 | :--- | :--- | :---: | :---: | :---: |
 | Season 2 | - | [:white_check_mark:](http://bccsrv.xyz:8888/#season_2_overworld:0:0:0:1500:0:0:0:0:perspective) | [:white_check_mark:](http://bccsrv.xyz:8888/#season_2_nether:0:0:0:1500:0:0:0:0:perspective) | :no_entry: |
-| Season 3 | - | _WIP_ | _WIP_ | _WIP_ |
+| Season 3 | - | [:white_check_mark:](http://bccsrv.xyz:8888/#season_3_overworld:0:0:0:1500:0:0:0:0:perspective) | [:white_check_mark:](http://bccsrv.xyz:8888/#season_3_nether:0:0:0:1500:0:0:0:0:perspective) | [:white_check_mark:](http://bccsrv.xyz:8888/#season_3_end:0:0:0:1500:0:0:0:0:perspective) |
 | Season 4 | - | [:white_check_mark:](http://bccsrv.xyz:8888/#season_4_overworld:0:0:0:1500:0:0:0:0:perspective) | [:white_check_mark:](http://bccsrv.xyz:8888/#season_4_nether:0:0:0:1500:0:0:0:0:perspective) | [:white_check_mark:](http://bccsrv.xyz:8888/#season_4_end:0:0:0:1500:0:0:0:0:perspective) |
 | Season 5 | - | [:white_check_mark:](http://bccsrv.xyz:8888/#season_5_overworld:0:0:0:1500:0:0:0:0:perspective) | [:white_check_mark:](http://bccsrv.xyz:8888/#season_5_nether:0:0:0:1500:0:0:0:0:perspective) | :no_entry: |
 | Season 6 | - | [:white_check_mark:](http://bccsrv.xyz:8888/#season_6_overworld:0:0:0:1500:0:0:0:0:perspective) | [:white_check_mark:](http://bccsrv.xyz:8888/#season_6_nether:0:0:0:1500:0:0:0:0:perspective) | [:white_check_mark:](http://bccsrv.xyz:8888/#season_6_end:0:0:0:1500:0:0:0:0:perspective) |
