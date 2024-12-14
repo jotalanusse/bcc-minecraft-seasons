@@ -70,7 +70,7 @@ const BASE_OVERWORLD_CONFIG: BlueMapConfig = {
   skyColor: '#7dabff',
   voidColor: '#000000',
   ambientLight: 0.1,
-  removeCavesBelowY: 55,
+  removeCavesBelowY: -10000, // TODO: Might adjust this in the future
 };
 
 const BASE_NETHER_CONFIG: BlueMapConfig = {
