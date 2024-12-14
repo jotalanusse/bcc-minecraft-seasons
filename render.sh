@@ -4,6 +4,6 @@ echo "Starting for all worlds..."
 
 cd ./blue-map
 
-java -jar BlueMap-3.20-cli.jar -r
+java -jar bluemap-5.5-cli.jar -r
 
 echo "Done!"
