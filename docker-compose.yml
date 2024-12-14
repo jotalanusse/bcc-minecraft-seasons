@@ -6,7 +6,7 @@ services:
     # container_name: bcc-minecraft-seasons # This only creates conflict with other containers
     restart: unless-stopped
     env_file:
-      - .env.docker.nginx.development
+      - .env.docker.nginx
     volumes:
     - ./nginx/nginx.conf:/etc/nginx/nginx.conf
     - ./blue-map/web:/usr/share/nginx/html/
