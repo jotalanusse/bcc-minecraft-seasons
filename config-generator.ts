@@ -165,19 +165,19 @@ const configs: CustomBlueMapConfig[] = [
     ...BASE_OVERWORLD_CONFIG,
     name: `Season 3 - Overworld`,
     fileName: 'season-3-overworld.conf',
-    world: `${BASE_DIRECTORY}/season-3-upgraded/overworld`,
+    world: `${BASE_DIRECTORY}/season-3/overworld`,
   },
   {
     ...BASE_NETHER_CONFIG,
     name: `Season 3 - Nether`,
     fileName: 'season-3-nether.conf',
-    world: `${BASE_DIRECTORY}/season-3-upgraded/nether`,
+    world: `${BASE_DIRECTORY}/season-3/nether`,
   },
   {
     ...BASE_THE_END_CONFIG,
     name: `Season 3 - The End`,
     fileName: 'season-3-the-end.conf',
-    world: `${BASE_DIRECTORY}/season-3-upgraded/the-end`,
+    world: `${BASE_DIRECTORY}/season-3/the-end`,
   },
   {
     ...BASE_OVERWORLD_CONFIG,
@@ -259,21 +259,21 @@ const configs: CustomBlueMapConfig[] = [
     ...BASE_OVERWORLD_CONFIG,
     name: `Season 8 - Overworld`,
     fileName: 'season-8-overworld.conf',
-    world: `${BASE_DIRECTORY}/season-8-updated/overworld`,
+    world: `${BASE_DIRECTORY}/season-8/overworld`,
     minInhabitedTime: 1, // Override this as the world was auto-generated (0.05s)
   },
   {
     ...BASE_NETHER_CONFIG,
     name: `Season 8 - Nether`,
     fileName: 'season-8-nether.conf',
-    world: `${BASE_DIRECTORY}/season-8-updated/nether`,
+    world: `${BASE_DIRECTORY}/season-8/nether`,
     minInhabitedTime: 1, // Override this as the world was auto-generated (0.05s)
   },
   {
     ...BASE_THE_END_CONFIG,
     name: `Season 8 - The End`,
     fileName: 'season-8-the-end.conf',
-    world: `${BASE_DIRECTORY}/season-8-updated/the-end`,
+    world: `${BASE_DIRECTORY}/season-8/the-end`,
     minInhabitedTime: 1, // Override this as the world was auto-generated (0.05s)
   },
   {
