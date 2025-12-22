@@ -26,10 +26,20 @@ This repository contains the **configuration files** for rendering the maps for 
 ## How do I use this?
 _You don't_.
 
-While this repository is public, the configuration files are useless without the actual Minecraft world files, and those are too large to be stored in a GitHub repository. I'm definitely not going to pay for LFS storage just to store Minecraft world files.
+While this repository is public, the configuration files are useless without the actual Minecraft world files, and those are too large to be stored in a GitHub repository.
 
 ## Useful commands
 If you are trying to run anything in this repository yourself, you are most likely me from the future and you forgot how to do this, here are some useful commands.
+
+For generating the checksums for the world files use:
+```sh
+./generate-checksums.sh
+```
+
+For verifying the checksums for the world files use:
+```sh
+./verify-checksums.sh
+```
 
 For rendering all maps use:
 ```sh
