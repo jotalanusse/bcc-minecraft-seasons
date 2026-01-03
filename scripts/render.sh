@@ -4,6 +4,6 @@ echo "Starting rendering for all worlds..."
 
 cd ../blue-map
 
-java -jar bluemap-5.5-cli.jar -r
+java -jar bluemap-5.15-cli.jar -r
 
 echo "Done!"
