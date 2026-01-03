@@ -9,6 +9,15 @@ interface BlueMapStartPos {
   z: number;
 }
 
+interface RenderMask {
+  minX?: number;
+  maxX?: number;
+  minZ?: number;
+  maxZ?: number;
+  minY?: number;
+  maxY?: number;
+}
+
 interface BlueMapConfig {
   world: string;
   dimension: string;
@@ -22,12 +31,7 @@ interface BlueMapConfig {
   removeCavesBelowY: number;
   caveDetectionOceanFloor: number;
   caveDetectionUsesBlockLight: boolean;
-  minX?: number;
-  maxX?: number;
-  minZ?: number;
-  maxZ?: number;
-  minY?: number;
-  maxY?: number;
+  renderMask?: RenderMask[];
   minInhabitedTime: number;
   renderEdges: boolean;
   enablePerspectiveView: boolean;
@@ -80,7 +84,11 @@ const BASE_NETHER_CONFIG: BlueMapConfig = {
   voidColor: '#150000',
   ambientLight: 0.6,
   removeCavesBelowY: -10000,
-  maxY: 90,
+  renderMask: [
+    {
+      maxY: 90,
+    },
+  ],
 };
 
 const BASE_THE_END_CONFIG: BlueMapConfig = {
@@ -121,12 +129,20 @@ const createRenderConfigs = (configs: CustomBlueMapConfig[]) => {
     writeLine(`cave-detection-ocean-floor: ${config.caveDetectionOceanFloor}`);
     writeLine(`cave-detection-uses-block-light: ${config.caveDetectionUsesBlockLight}`);
 
-    if (config.minX) writeLine(`min-x: ${config.minX}`);
-    if (config.maxX) writeLine(`max-x: ${config.maxX}`);
-    if (config.minZ) writeLine(`min-z: ${config.minZ}`);
-    if (config.maxZ) writeLine(`max-z: ${config.maxZ}`);
-    if (config.minY) writeLine(`min-y: ${config.minY}`);
-    if (config.maxY) writeLine(`max-y: ${config.maxY}`);
+    if (config.renderMask && config.renderMask.length > 0) {
+      writeLine(`render-mask: [`);
+      for (const mask of config.renderMask) {
+        writeLine(`  {`);
+        if (mask.minX !== undefined) writeLine(`    min-x: ${mask.minX}`);
+        if (mask.maxX !== undefined) writeLine(`    max-x: ${mask.maxX}`);
+        if (mask.minZ !== undefined) writeLine(`    min-z: ${mask.minZ}`);
+        if (mask.maxZ !== undefined) writeLine(`    max-z: ${mask.maxZ}`);
+        if (mask.minY !== undefined) writeLine(`    min-y: ${mask.minY}`);
+        if (mask.maxY !== undefined) writeLine(`    max-y: ${mask.maxY}`);
+        writeLine(`  }`);
+      }
+      writeLine(`]`);
+    }
 
     writeLine(`min-inhabited-time: ${config.minInhabitedTime}`);
     writeLine(`render-edges: ${config.renderEdges}`);
@@ -294,24 +310,6 @@ const configs: CustomBlueMapConfig[] = [
     fileName: 'season-9-the-end.conf',
     world: `${BASE_DIRECTORY}/season-9/the-end`,
   },
-  {
-    ...BASE_OVERWORLD_CONFIG,
-    name: `Mod Season 1 - Overworld`,
-    fileName: 'mod-season-1-overworld.conf',
-    world: `${BASE_DIRECTORY}/mod-season-1/overworld`,
-  },
-  {
-    ...BASE_NETHER_CONFIG,
-    name: `Mod Season 1 - Nether`,
-    fileName: 'mod-season-1-nether.conf',
-    world: `${BASE_DIRECTORY}/mod-season-1/nether`,
-  },
-  // {
-  //   ...BASE_THE_END_CONFIG,
-  //   name: `Mod Season 1 - The End`,
-  //   fileName: 'mod-season-1-the-end.conf',
-  //   world: `${BASE_DIRECTORY}/mod-season-1/the-end`,
-  // },
 ];
 
 createRenderConfigs(configs);
