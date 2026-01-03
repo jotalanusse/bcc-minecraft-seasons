@@ -278,6 +278,24 @@ const configs: CustomBlueMapConfig[] = [
   },
   {
     ...BASE_OVERWORLD_CONFIG,
+    name: `Season 9 - Overworld`,
+    fileName: 'season-9-overworld.conf',
+    world: `${BASE_DIRECTORY}/season-9/overworld`,
+  },
+  {
+    ...BASE_NETHER_CONFIG,
+    name: `Season 9 - Nether`,
+    fileName: 'season-9-nether.conf',
+    world: `${BASE_DIRECTORY}/season-9/nether`,
+  },
+  {
+    ...BASE_THE_END_CONFIG,
+    name: `Season 9 - The End`,
+    fileName: 'season-9-the-end.conf',
+    world: `${BASE_DIRECTORY}/season-9/the-end`,
+  },
+  {
+    ...BASE_OVERWORLD_CONFIG,
     name: `Mod Season 1 - Overworld`,
     fileName: 'mod-season-1-overworld.conf',
     world: `${BASE_DIRECTORY}/mod-season-1/overworld`,
